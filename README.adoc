@@ -111,7 +111,7 @@ endif::[]
 [%interactive]
 - [ ] {Enseignants}
 - [ ] 1
-- [X] 2
+- [x] 2
 - [ ] 3
 - [ ] 4
 - [ ] Innopolis
